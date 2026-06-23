@@ -8,3 +8,7 @@ body{
 canvas{
     display: none;
 }
+.correct{
+    background-color: #24399f;
+    color: white;
+}
